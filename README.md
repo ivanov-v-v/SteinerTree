@@ -1,2 +1,2 @@
 # SteinerTree
-2-approximation algorithm for Steiner Tree problem
+2-optimal algorithm for Steiner Tree problem
